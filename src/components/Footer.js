@@ -39,10 +39,10 @@ const Footer = () => {
                   <FontAwesomeIcon
                     icon={faEnvelope}
                     className="contact-icon"
-                    title="mmtiwanalegalservice@gmail.com"
+                    title="mmTIWNAlegalservice@gmail.com"
                   />
                   <span className="fw-light px-2">
-                    M.MUNIR TIWANO legalservice@gmail.com
+                    M.MUNIR TIWNA legalservice@gmail.com
                   </span>
                 </span>
               </div>
@@ -73,7 +73,7 @@ const Footer = () => {
               <div>
                 <h6 className="pb-2">Program</h6>
                 <p className="fw-light">
-                  MONDAY + FRIDAY: 8AM – 5PM <br /> MUNIR TIWANA (SAHIL) –
+                  MONDAY + FRIDAY: 8AM – 5PM <br /> MUNIR TIWNA (SAHIL) –
                   ADVOCATE
                 </p>
               </div>
@@ -91,7 +91,7 @@ const Footer = () => {
             headerIcon="assets/LOGO2.png"
             headerTxtColor="white"
             headerBgColor="#02182b"
-            headerTitle="MUNIR TIWANO (SAHIL) – ADVOCATE"
+            headerTitle="MUNIR TIWNA (SAHIL) – ADVOCATE"
             headerCaption="ONSITE AND ONLINE"
             bodyBgColor="#bbb"
             chatPersonName="Support"
@@ -111,7 +111,7 @@ const Footer = () => {
         <div>
           <div className="bg-dark d-flex align-items-center justify-content-center">
             <hr></hr>
-            <p className="copyright mb-0">©2024 M.MUNIR TIWANO</p>
+            <p className="copyright mb-0">©2024 M.MUNIR TIWNA</p>
           </div>
         </div>
       </footer>

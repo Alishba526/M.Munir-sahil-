@@ -28,7 +28,7 @@ const Avocatura = () => {
           <div className=" pt-4 text-center">
             <h5 className="fw-bold text-center pb-1">
           
-            TIWANA & TIWANA LEGAL
+            TIWNA & TIWNA LEGAL
             </h5>
             <h6 className="fw-bold subtitle lh-lg text-center px-5 pb-4">
              

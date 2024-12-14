@@ -17,7 +17,7 @@ function App() {
         <BrowserRouter>
           <Helmet>
             <title>
-           M.MUNIR TIWAMO LAWYER
+           M.MUNIR TIWNA LAWYER
             </title>
             <meta
               name="description"

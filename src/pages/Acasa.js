@@ -178,7 +178,7 @@ const Acasa = () => {
                 <h5 className="lh-base text-center pb-4">INTRODUCTION</h5>
 
                 <p className="text-separator fw-normal">
-                  TIWANA & TIWANA LEGAL, We are a professional law
+                  TIWNA & TIWNA LEGAL, We are a professional law
                   corporation that is redefining the traditional law firm for
                   the new national economy. In addition to providing the
                   high-quality and efficient legal services our clients demand,
@@ -434,12 +434,12 @@ const Acasa = () => {
               <div className="card-body">
                 <p className="guide-text mb-4"> ABOUT </p>
                 <h5 className="lh-base text-center pb-4">
-                  TIWANA & TIWANA LEGAL 
+                  TIWNA & TIWNA LEGAL GROUP
                 </h5>
 
                 <p className="text-separator fw-normal">
                   A distinguished legal practitioner and Managing
-                  Partner/Director/Attorney at TIWANA & TIWANA LEGAL,
+                  Partner/Director/Attorney at TIWNA & TIWNA LEGAL,
                   brings to the table a robust educational foundation from Sindh
                   Muslim Law College, where he earned his LL.B. This rigorous
                   academic training has equipped him with a comprehensive
@@ -449,12 +449,12 @@ const Acasa = () => {
                   legal representation, welcoming clients with a vision of
                   sharp, strategic solutions tailored to their needs.
                   <br></br>
-                  <span className="ms-4"></span>Mr. M. Munir TIWANO has vide
+                  <span className="ms-4"></span>Mr. M. Munir TIWNA has vide
                   legal background and dealing with highlighted cases such as
                   Pakistan's historical, famous case of Muzamil Hussain Toori
                   (MHTOORI) the Pakistan's famous blogger, YouTuber,
                   Photographer Islamabad based against Pakistan Television
-                  (PTV), Mr Teewno won the case of 50 acres agricultural land in
+                  (PTV), Mr TIWNA won the case of 50 acres agricultural land in
                   favor of Hindu family against one of the approximately 35
                   years senior Advocate and 4 other cases of residenacial
                   property of Karachi on behalf of an old lady against her sons
@@ -467,7 +467,7 @@ const Acasa = () => {
                   issues clearly before the courts is highly praised,
                   underpinned by his sharp presence of mind, high emotional
                   intelligence, and strong interpersonal skills. Mr M. Muneer
-                  Teewno has unique advantage lies in his adaptable and
+                  TIWNA has unique advantage lies in his adaptable and
                   innovative mindset, eschewing outdated solutions in favor of
                   pioneering approaches to address his clients' challenges.
                   Whether providing litigation representation, devising
@@ -477,16 +477,16 @@ const Acasa = () => {
                   prestigious law firms and his tenure with esteemed legal
                   luminaries such as Mr. Javed Ahmed Chhatari Advocate Supreme
                   Court of Pakistan and Ex Senior Civil Judge & Ex Deputy
-                  Registrar Supreme Court of Pakistan Mr Munwar Ali Teewno. Mr
-                  M. Munir TIWANO possesses invaluable insights into navigating
+                  Registrar Supreme Court of Pakistan Mr Munwar Ali TIWNA. Mr
+                  M. Munir TIWNA possesses invaluable insights into navigating
                   high-stakes and complex matters with precision and detail.
-                  Furthermore, Mr. M. Muneer Teewno's corporate background,
+                  Furthermore, Mr. M. Muneer TIWNA's corporate background,
                   including his first hand exposure to corporate structures at
                   Zenith Codes, sets him apart. He not only offers legal
                   expertise but also advises on governance structures, policies,
                   and risk mitigation strategies, ensuring comprehensive legal
                   coverage and security for corporations. In addition to his
-                  professional achievements, Mr. M. Muneer Teewno is an active
+                  professional achievements, Mr. M. Muneer TIWNA is an active
                   member of the legal community, holding memberships with the
                   Sindh Bar Council, the High Court Bar Association and the
                   Karachi Bar Association. These affiliations underscore his
@@ -532,7 +532,7 @@ const Acasa = () => {
                 <li>Corporate Lawyer .</li>
                 <li>Corporate Legal .</li>
 
-                <li>M.MUNIR TIWANO</li>
+                <li>M.MUNIR TIWNA</li>
               </ul>
             </div>
             <div className=" col col-md-5 order-md-2 mt-5">

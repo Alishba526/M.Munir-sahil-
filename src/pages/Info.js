@@ -5,7 +5,7 @@ const Info = () => {
   return (
     <div className="info">
       <Helmet>
-        <title>M.MUNIR TIWANO ADVOCATE THE HIHG COURT OF SINDH</title>
+        <title>M.MUNIR TIWNA ADVOCATE THE HIHG COURT OF SINDH</title>
         
         <meta
           name="description"
