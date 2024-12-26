@@ -15,8 +15,7 @@ export const Contact = () => {
     <div className="contact-page">
       <Helmet>
         <title>
-        M.MUNIR TIWNA
-        </title>
+        Mr. M. Munir Tiwna       </title>
         
         <meta
           name="description"
@@ -71,7 +70,7 @@ export const Contact = () => {
                     </span>
                   </div>
                   <h5>E-mail</h5>
-                  <p>m m TIWNAlegalservice@gmail.com</p>
+                  <p>mmtiwanalegalservice@gmail.com</p>
                 </div>
               </div>
               <div className="col-lg-3 col-md-6 col-12">

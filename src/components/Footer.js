@@ -42,7 +42,7 @@ const Footer = () => {
                     title="mmTIWNAlegalservice@gmail.com"
                   />
                   <span className="fw-light px-2">
-                    M.MUNIR TIWNA legalservice@gmail.com
+                  Mr. M. Munir Tiwna legalservice@gmail.com
                   </span>
                 </span>
               </div>
@@ -73,7 +73,7 @@ const Footer = () => {
               <div>
                 <h6 className="pb-2">Program</h6>
                 <p className="fw-light">
-                  MONDAY + FRIDAY: 8AM – 5PM <br /> MUNIR TIWNA (SAHIL) –
+                  MONDAY + FRIDAY: 8AM – 5PM <br /> Mr. M. Munir Tiwna (SAHIL) –
                   ADVOCATE
                 </p>
               </div>
@@ -111,7 +111,7 @@ const Footer = () => {
         <div>
           <div className="bg-dark d-flex align-items-center justify-content-center">
             <hr></hr>
-            <p className="copyright mb-0">©2024 M.MUNIR TIWNA</p>
+            <p className="copyright mb-0">©2024 Mr. M. Munir Tiwna</p>
           </div>
         </div>
       </footer>

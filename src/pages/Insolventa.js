@@ -15,17 +15,15 @@ const Insolventa = () => {
           />
         </Helmet>
         <div>
-          <h6 className="guide-text ms-3 mt-4">SERVICES THE INSOLVE</h6>
+          <h6 className="guide-text ms-3 mt-4">Legal Solutions</h6>
           <div className="container py-5">
             <h5 className="fw-bold text-center pb-1">
-              Insolvency Services: Expert Solutions for Financial Recovery
+              WE SOLVED EVERYTHING YOU NEED
             </h5>
             <h6 className="fw-bold subtitle lh-lg text-center px-5 pb-5">
-              We provide comprehensive insolvency services, including debt
-              restructuring, bankruptcy proceedings, and financial recovery
-              strategies. Our experienced team helps businesses and individuals
-              navigate complex insolvency processes, ensuring efficient
-              solutions and protecting your financial interests.
+            Expert legal solutions for all your needs. We are here to help you navigate the legal system and achieve the best outcomes. We invite you to schedule a consultation with our Legal Group so
+              we may provide legal advice
+               catered for your specific needs.
             </h6>
 
             <div className="card">
@@ -79,7 +77,7 @@ const Insolventa = () => {
                     <br></br>
                     <li>
                       Criminal Law:
-                      <br></br>Notificari, Somatii de plata, Cerere cu valoare
+                      <br></br>Notification, Somatii de plata, Cerere cu valoare
                       redusa
                       <br></br>Filing bail applications and handling trial and
                       appellate proceedings.
